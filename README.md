@@ -6,9 +6,9 @@
 
 2. 以tiddlywiki为基础。
 
-## 访问网网址
+## 访问网址
 
-https://tomzcn.github.io/tiddlywiki-planets/index.html
+https://tomzcn.github.io/tiddlywiki-planets
 
 ## 操作
 
