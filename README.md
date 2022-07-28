@@ -17,3 +17,5 @@ https://tomzcn.github.io/tiddlywiki-planets/index.html
 这个js的[]部分的内容可以来自tiddlywiki的导出json。tiddlywiki采用tiddlywiki5.2.2的empty为基础。安装额外插件比较困难。
 
 新建tiddler尽量以新日志的形式。这样可以以时间线来看。
+
+点击某个tidder的Journal标签就能看到有哪些日志。
